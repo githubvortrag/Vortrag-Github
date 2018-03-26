@@ -1,15 +1,12 @@
 # Vortrag-Github
 Versionskette
-von Domenic am 26.03.18
+
+githubvortrag-patch-10:28
+Abfolge von Versionen & Patches
+Patch 2
+Dies dient nur für die Darstellung 
+
+(df) 
 
 
-
-
-
-
-
-
-
-
-
-Vallahi
+ABABABABABABABABABAB
